@@ -52,10 +52,7 @@ def add_characters
       }
    }
 
-  epic_tragedy[:additional_characters] = [
-     :prince = { name: "Prince Escalus"},
-     :apothecary = {
-    ]
+  epic_tragedy[:additional_characters] = []
   
    # Write code below that does the following programmatically:
    #
